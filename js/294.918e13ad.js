@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfront_club"]=self["webpackChunkfront_club"]||[]).push([[294],{3294:function(n,t,r){function u(n,t){return"test"}r.r(t),r.d(t,{default:function(){return s}});var e=r(6262);const c={},f=(0,e.A)(c,[["render",u]]);var s=f}}]);
+//# sourceMappingURL=294.918e13ad.js.map
